@@ -73,8 +73,6 @@ RDEPENDS_packagegroup-wpewebkit-depends-misc = "\
     gettext \
     gettext-runtime \
     groff \
-    lsbinitscripts \
-    lsbtest \
     lsof \
     strace \
     libusb1 \
